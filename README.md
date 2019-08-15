@@ -5,15 +5,11 @@ Weopen project for mobile react native developer
 
 2. Clone project
 
-Forder tree:
+go to  <Your Directory>
+  
+git clone https://github.com/Ducmy/wopen
 
-  wopen
-
-  -- .expo
-
-  -- .expo-share
-
-  -- < Some child forder>
+cd wopen
 
 3. Run expo project:
 
