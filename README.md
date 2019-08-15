@@ -12,12 +12,13 @@ Weopen project for mobile react native developer
  cd wopen
 
 3. Run expo project:
+#cd wopen
+#npm install
 
 #npm install -g expo-cli
 
 #expo init wopen // Keep there steps because it has alreay develop
 
-cd wopen
 
 npm start
 
