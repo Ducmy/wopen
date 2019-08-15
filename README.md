@@ -15,7 +15,7 @@ Weopen project for mobile react native developer
 
 #cd wopen
 
-#npm install
+#yarn install
 
 #npm install -g expo-cli
 
@@ -23,6 +23,8 @@ Weopen project for mobile react native developer
 
 
 npm start
+
+For any issue refer to: https://github.com/expo/expo-cli/issues/280
 
 
 
